@@ -1,0 +1,34 @@
+**Scoring criteria**
+
+| Product | Price Score (1 – 5) | Quality Score (1‑5) | Legitimacy Score (1‑5) |
+|---------|--------------------|--------------------|---------------------|
+| **Classic $29.99 – Premium Straight‑Leg Jeans** | 5 – well below the $80 limit. | 4 – Very high rating (4.9) but low review volume (15) and a mixed‑fabric blend that is not obviously the most durable. | 2 – Seller “StyleMarket” is described only as an *unknown retailer with limited information*, giving limited confidence in trustworthiness. |
+| **Everyday $68.00 – 99% Cotton Straight‑Leg Jeans** | 5 – Within the $80 budget. | 5 – 99 % cotton gives good durability, the item has a high rating (4.5) backed by a strong review count (2 300). | 5 – Seller “Established Clothing Co.” is noted as an *established retailer with a long sales history*. |
+| **Essential $52.00 – Cotton‑Polyester Straight‑Leg Jeans** | 5 – Well inside budget. | 4 – Good cotton content (70 %) plus decent rating (4.3) and solid review count (800). | 5 – Seller “Trusted Apparel” labelled as an *established retailer*, indicating higher trust. |
+| **Premium $95.00 – 100 % Cotton Jeans** | **1** – Exceeds the requested $80 budget (price disqualifies it). | 5 – 100 % cotton, excellent rating (4.7) and many reviews (1 500). | 5 – Established Denim Co. is a reputable seller. |
+| **Ultra‑Cheap $19.99 – Straight‑Leg Jeans** | 5 – Deep under budget. | 2 – No material information (46% of quality criteria unknown) and a perfect 5‑star rating supported by only 7 reviews; low confidence, plus minimal seller info (new/ little info). | 2 – “FashionDeals247” is a *new retailer with little information*, giving low confidence. |
+
+**Recommended products**
+
+| Rank | Product | Price | Price Score | Quality Score | Legitimacy Score | Overall Score* | Why it matches |
+|------|---------|-------|-------------|----------------|-------------------|----------------|
+| 1 | Everyday Cotton Straight‑Leg Jeans | **$68.00** | 5 | 5 | 5 | **Overall 5** – Perfectly fits the budget, high‑quality cotton construction (durability, very good rating and large volume (4.5 ★, 2300 reviews), and comes from a clearly established, trustworthy seller. |
+| 2 | Essential Straight‑Leg Jeans | **$52.00** | 5 | 4 | 5 | **Overall ≈4.7** – Strong cotton content makes it durable, good rating (4.3) with a healthy review base, and a reputable seller. |
+| 3 | Classic Straight‑Leg Jeans | **$29.99** | 5 | 4 | 2 | **Overall ≈4** – Very low price makes it an affordable option; rating is excellent (4.9) yet only 15 reviews, and the seller’s reputation is unclear, lowering legitimacy. |
+
+\*Overall score = (Price + Quality + Legitimacy) ÷ 3, rounded to one decimal place.
+
+**Why these three are the best fit**
+
+1. **Budget compliance** – All three stay ≤ $80 (the “Premium Cotton Jeans” exceeds it, so it is excluded despite good quality and seller rating.  
+2. **Likely proxy for durability** – The two recommended as #2 and #3 rely on high cotton content, which is generally associated with durable denim.  
+3. **Seller trustworthiness** – “Established Clothing Co.” and “Trusted Apparel” are identified as established retailers, giving higher confidence in legitimacy. The third recommendation has a lower legitimacy score but is still included because its price and quality are strong, filling out the set of three suggestions.
+
+**Rejected products and reasons**
+
+| Product | Reason for rejection |
+|---------|----------------------|
+| **Premium Cotton Jeans** (price $95) | Exceeds the user’s limit of $80; price score low enough to disqualify it for a budget‑focused recommendation list. |
+| **Ultra‑Cheap Straight‑round‑Leg Jeans** (price $19.99) | While cheap enough, the material is not disclosed and the seller has little known history; this uncertainty leads to low quality (2) and legitimacy (2) scores, making it a poorer overall choice. |
+
+**Note on color** – None of the supplied data specify that the jeans are black. Because the request explicitly wants *black* jeans, the above recommendations are made based on the next best matches (straight‑leg style) while noting the color is **not confirmed**. If absolute confirmation of black color is required, a seller‑described as reliable, the best matching items would be “Everyday Cotton Straight‑Leg Jeans” and “Essential Straight‑Leg Jeans,” both from reputable sellers.
