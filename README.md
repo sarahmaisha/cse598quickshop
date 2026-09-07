@@ -18,3 +18,5 @@ After that, you should be able to run the baseline code and obtain the same outp
 python3 run.py
 
 The baseline will take an input from a txt file and specific items loaded onto a products.json file, where the name, price, material, seller, seller reputation, rating, and reviews of each product is listed there. Then, the LLM will look through all of the products in the json file and determine the recommended products (around 3) and put that into the output.txt. 
+
+Disclaimer: The baseline model and ideas for an agent for the capstone project were created with generative AI. The ChatGPT link below traces the whole conversation. However, any written portions (ie. README) was written by me. 
